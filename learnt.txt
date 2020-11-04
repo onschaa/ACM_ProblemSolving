@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define bug cout<<"*"
+ 
+int main()
+{
+    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+ 
+return 0;
+}
+***********************************************************************************
+code ASCII: 'A'=97 'a'=65 1=49
+
+'c'-8=nombre: it takes the char as a number
+
+int a[size];
+
+min of an array a: * min_element(a , a + (size of a) )
+
+sort (trier) an array a : sort(a, a + (size of a) )
+
+0 zero is a default value for omitted array elements
