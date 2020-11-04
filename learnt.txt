@@ -1,3 +1,5 @@
+start with:
+---------------------------------------------------------------
 #include <bits/stdc++.h>
 using namespace std;
 #define bug cout<<"*"
@@ -8,7 +10,16 @@ int main()
  
 return 0;
 }
+---------------------------------------------------------------
+Problems:
+
+A. Vitaliy and Pie A525
+B. Decoding B746
+A. Helpful Maths A339
+A. Pangram A520
 ***********************************************************************************
+Learnt:
+
 code ASCII: 'A'=97 'a'=65 1=49
 
 'c'-8=nombre: it takes the char as a number
